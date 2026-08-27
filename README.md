@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi, I'm Dhanush Reddy 👋
 
-<!--
-**DhanushReddymittapalli/DhanushReddymittapalli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### B.Tech Student | AI/ML | Python | Data Science
 
-Here are some ideas to get you started:
+I am a B.Tech student interested in Artificial Intelligence, Machine Learning, Python, and Data Science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building practical projects that solve real-world problems and continuously improving my technical skills.
+
+## 🚀 Featured Projects
+
+### 🛡️ FinGuard AI
+AI-powered credit card fraud detection system using Machine Learning and Random Forest.
+
+- Fraud probability prediction
+- Low / Medium / High risk classification
+- Batch transaction analysis
+- Interactive Streamlit dashboard
+- Model evaluation using ROC-AUC and PR-AUC
+
+### 🛒 SmartDemand AI
+AI-powered retail demand forecasting and inventory planning project.
+
+- Demand forecasting
+- Data analysis
+- Machine Learning
+- Inventory planning
+
+## 🛠️ Technical Skills
+
+- Python
+- Machine Learning
+- Data Science
+- Pandas
+- NumPy
+- Scikit-learn
+- Streamlit
+- Git & GitHub
+- Data Visualization
+
+## 🎯 Current Goals
+
+- Build industry-level AI/ML projects
+- Improve problem-solving skills
+- Gain practical internship experience
+- Contribute to meaningful technology projects
+
+## 📫 Connect With Me
+
+- GitHub: @DhanushReddymittapalli
+
+---
+
+⭐ Thanks for visiting my profile!
